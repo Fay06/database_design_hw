@@ -1,3 +1,3 @@
 # database_design_hw
 
-This is the homework for CMSC424-fall2021.
+This is the coding homework for CMSC424-fall2021.
